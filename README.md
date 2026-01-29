@@ -1,3 +1,9 @@
+
+![](https://www.infobae.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-wordpress-client-uploads%2Finfobae-wp%2Fwp-content%2Fuploads%2F2019%2F05%2F06082326%2F00AMATEUR-PHOTOGRAPHERS-AST-2-superJumbo-111.jpg?auth=5d1a50231cbc2b2ea975c3e622d5d641177a8a84928ba9154230c1c266efc706)
+*Rockefeller Center. 2 de abril de 1951; 1 de abril de 2019. Credit Sam Falk/The New York Times; Tony Cenicola/The New York Times*
+
+
+
 ### De la lectura a la inferencia: grafos de conocimiento y validación del sentido
 
 En un post para linkedin (puede verlo [aquí](https://www.linkedin.com/posts/sandro-orme%C3%B1o-3826196b_leer-un-texto-te%C3%B3rico-suele-implicar-un-gesto-activity-7422308092513701888-v4Lv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7dB9IB6wSbsTlokEc42DYAPyOjOcXhY1Y)) describí la necesidad de complementar el proceso tradicional de adquisición de conocimiento, basado principalmente en la lectura, con la elaboración explícita de un grafo de conocimiento. Este proceso incrementa de manera significativa nuestra capacidad de entendimiento, al tiempo que favorece la estructuración y organización de la información.
