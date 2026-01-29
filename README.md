@@ -79,7 +79,7 @@ la visión tradicional TIENE carácter sistemático, y la fotografía REVELA ese
 Pero surge una pregunta técnica relevante: ¿cómo llegamos a ese subgrafo?, ¿cómo hacemos visible esa relación dentro del grafo completo?, ¿cómo focalizamos la exploración en esa parte específica del conocimiento?
 El siguiente código en Cypher permite hacerlo:
 
-```
+``` cypher
 MATCH path = ({nombre: "Fotografía"})-[*]-({nombre: "Visión tradicional"})
 RETURN nodes(path), relationships(path)
 
@@ -89,7 +89,7 @@ Los nodos se representan entre paréntesis, mientras que las relaciones se indic
 
 Sin embargo, el lector puede desear una respuesta más puntual, un hecho explícito que el grafo representa. Para ello, puede utilizar el siguiente patrón:
 
-```
+``` cypher
 MATCH ({nombre: "Fotografía"})-[*]-(concepto)-[*]-({nombre: "Visión tradicional"})
 RETURN concepto.nombre
 ```
@@ -120,7 +120,7 @@ Antes de que el lector “grite al cielo”, es importante aclarar que esta limi
 
 El siguiente código representa esta relación compleja:
 
-```
+``` cypher
 MATCH path = ({nombre: "Fotografía"})-[*]-({nombre: "Mundo"})
 RETURN nodes(path), relationships(path)
 ```
